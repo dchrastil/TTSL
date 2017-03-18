@@ -55,7 +55,10 @@ def linkedIn():
         })
         html = loadPage("https://www.linkedin.com/uas/login-submit", login_data)
         soup = BeautifulSoup(html, "html.parser")
-	print cj._cookies['.www.linkedin.com']['/']['li_at'].value
+        try:
+            print cj._cookies['.www.linkedin.com']['/']['li_at'].value
+        except:
+            print
         cj.save()
         os.remove(cookie_filename)
 

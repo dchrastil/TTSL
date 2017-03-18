@@ -99,6 +99,8 @@ def get_search():
 def authenticate():
     try:
         session = subprocess.Popen(['python', 'TTSL_login.py'], stdout=subprocess.PIPE).communicate()[0].replace("\n","")
+        if len(session) == 0:
+            sys.exit("[Error] Unable to login to LinkedIn.com")
         print "[Info] Obtained new session: %s" % session
         cookies = dict(li_at=session)
     except Exception, e:
