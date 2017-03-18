@@ -87,7 +87,7 @@ def get_search():
                 worksheet1.write('F%i' % recordpos, data_slug)          
                 worksheet1.write('G%i' % recordpos, data_picture)          
                 worksheet2.write('A%i' % recordpos, '=IMAGE(dataset!G%i)' % recordpos)
-                worksheet2.write('B%i' % recordpos, '=dataset!A%i&" "&dataset!B%i&"\n"&dataset!C%i' % (recordpos,recordpos,recordpos))
+                worksheet2.write('B%i' % recordpos, '=dataset!A%i&" "&dataset!B%i&"\n"&dataset!C%i&"\n"&dataset!D%i&"\n"&dataset!E%i' % (recordpos,recordpos,recordpos,recordpos,recordpos))
                 worksheet2.write('C%i' % recordpos, '=HYPERLINK(dataset!F%i)' % recordpos)
                 worksheet2.set_row(recordpos-1,125)        
                 # Increment Record Position
