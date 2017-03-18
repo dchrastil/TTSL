@@ -22,7 +22,7 @@ this tool is for educational purposes only and violates LinkedIn.com's TOS. Use 
 
 ## Screenshots
 
-![alt tag](https://lh5.googleusercontent.com/Og8_HVL2sMhcw2Q20YTy5XxWF5-mZkJjFOtyG9CThVYhhT-yulm2Mv3zbo0OU4tNZInJCWeowmRwOF8=w3202-h1722-rw)
+![alt tag](https://lh4.googleusercontent.com/Og8_HVL2sMhcw2Q20YTy5XxWF5-mZkJjFOtyG9CThVYhhT-yulm2Mv3zbo0OU4tNZInJCWeowmRwOF8=w3202-h1722-rw)
 
 ![alt tag](https://lh4.googleusercontent.com/bFDcl7Iai3iEULLxRKX8MpGN0zdl_a5besT9MDpRq88L-REROKmPAhDV2jNVtMPxD4ucoMJDDFdWxvI=w3202-h1722-rw)
 
