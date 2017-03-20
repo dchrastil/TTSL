@@ -26,4 +26,4 @@ this tool is for educational purposes only and violates LinkedIn.com's TOS. Use 
 
 ![alt tag](https://s4.postimg.org/vu9izninx/Screen_Shot_2017_03_15_at_11_45_11_PM.png)
 
-![alt tag](https://s4.postimg.org/qwvyejgot/Screen_Shot_2017_03_15_at_11_45_26_PM.png)
+![alt tag](https://s8.postimg.org/st0h8maxx/Screen_Shot_2017_03_20_at_11_04_00_AM.png)
