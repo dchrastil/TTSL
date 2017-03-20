@@ -22,7 +22,7 @@ this tool is for educational purposes only and violates LinkedIn.com's TOS. Use 
 
 ## Screenshots
 
-![alt tag](https://s4.postimg.org/6zq15kxtp/Screen_Shot_2017_03_15_at_11_43_30_PM.png)
+![alt tag](https://s4.postimg.org/yj8wlmijh/Screen_Shot_2017_03_20_at_11_00_50_AM.png)
 
 ![alt tag](https://s4.postimg.org/vu9izninx/Screen_Shot_2017_03_15_at_11_45_11_PM.png)
 
